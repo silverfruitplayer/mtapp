@@ -1,3 +1,3 @@
 # mtapp
 
-just a weview app for showing something
+just a webview app for showing something
